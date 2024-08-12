@@ -7,17 +7,17 @@ This repository contains three main projects that showcase my skills in web deve
 ### 1. *Landing Page*
 - *Description*: A responsive landing page with a modern design, featuring smooth scroll effects and interactive elements.
 - *Technologies Used*: HTML, CSS, JavaScript.
-- *Deployed Link*: [Landing Page](TASK1-https://esaivani2003.github.io/OIBSIB/LandingPage/)
+- *Deployed Link*: [Landing Page](https://esaivani2003.github.io/OIBSIB/LandingPage/)
 
 ### 2. *Portfolio*
 - *Description*: A personal portfolio website designed to highlight my skills, projects, and experience. The portfolio includes a profile section, project carousel, and certificate display with a scrolling effect.
 - *Technologies Used*: HTML, CSS, JavaScript.
-- *Deployed Link*: [Portfolio](TASK2-https://esaivani2003.github.io/OIBSIB/Portfolio/)
+- *Deployed Link*: [Portfolio](https://esaivani2003.github.io/OIBSIB/Portfolio/)
 
 ### 3. *Temperature Converter*
 - *Description*: A simple and interactive web application that converts temperatures between Celsius, Fahrenheit, and Kelvin.
 - *Technologies Used*: HTML, CSS, JavaScript.
-- *Deployed Link*: [Temperature Converter](TASK3-https://esaivani2003.github.io/OIBSIB/TemperatureConverter/)
+- *Deployed Link*: [Temperature Converter](https://esaivani2003.github.io/OIBSIB/TemperatureConverter/)
 
 ## *Installation*
 
